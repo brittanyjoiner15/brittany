@@ -1,0 +1,22 @@
+{
+  "Jss": [
+    {
+      "title": "To Do App",
+      "description": "Using Postgres, React, and Node to create a basic to do application",
+      "image": "https://brittanyjoiner.netlify.app/images/todo.gif",
+      "link": "https://github.com/brittanyjoiner15/pern-todo"
+    },
+    {
+      "title": "Shopping App",
+      "description": "Using JSON data as props for components to generate a shopping experience",
+      "image": "https://brittanyjoiner.netlify.app/images/shopping.png",
+      "link": "https://github.com/brittanyjoiner15/shopping"
+    },
+    {
+      "title": "COVID19 Dashboard",
+      "description": "Using Gatsby and APIs to reach John Hopkins data and visualize it",
+      "image": "https://brittanyjoiner.netlify.app/images/covid.gif",
+      "link": "#"
+    }
+  ]
+}

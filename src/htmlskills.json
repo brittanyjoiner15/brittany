@@ -1,0 +1,22 @@
+{
+  "Htmls": [
+    {
+      "title": "Penge",
+      "description": "Fintech app marketing website",
+      "image": "https://brittanyjoiner.netlify.app/images/penge.png",
+      "link": "https://penge.netlify.app/pages/"
+    },
+    {
+      "title": "Mock Web Design Firm",
+      "description": "Mock website for a web design firm",
+      "image": "https://brittanyjoiner.netlify.app/images/web-design.png",
+      "link": "https://web-design-firm-clone.netlify.app/"
+    },
+    {
+      "title": "Airbnb Clone",
+      "description": "Static project re-creating Airbnb press page",
+      "image": "https://brittanyjoiner.netlify.app/images/airbnbpress.png",
+      "link": "https://confident-pare-7fb517.netlify.app/"
+    }
+  ]
+}
