@@ -17,6 +17,12 @@
       "description": "Using Gatsby and APIs to reach John Hopkins data and visualize it",
       "image": "https://brittanyjoiner.netlify.app/images/covid.gif",
       "link": "#"
+    },
+    {
+      "title": "Drink Recipe Generator",
+      "description": "Filtering results based on selection from drop down",
+      "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5ea0d4482cbb1f716cbf59b6/867192860c67b3805b8644cef1accfe4/Screen_Shot_2020-05-08_at_9.34.23_PM.png",
+      "link": "https://github.com/brittanyjoiner15/drink-generator"
     }
   ]
 }
