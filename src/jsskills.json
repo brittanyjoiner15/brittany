@@ -23,6 +23,12 @@
       "description": "Filtering results based on selection from drop down",
       "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5ea0d4482cbb1f716cbf59b6/867192860c67b3805b8644cef1accfe4/Screen_Shot_2020-05-08_at_9.34.23_PM.png",
       "link": "https://github.com/brittanyjoiner15/drink-generator"
+    },
+    {
+      "title": "OMBD Movie Query",
+      "description": "Using React Hooks and APIs to search movies ",
+      "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5eadcb13c82db90ac430e6ba/b608e63cbe8971850996255afdf53676/image.png",
+      "link": "https://github.com/brittanyjoiner15/hooked"
     }
   ]
 }
