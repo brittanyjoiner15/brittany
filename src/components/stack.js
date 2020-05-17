@@ -55,6 +55,37 @@ export class Stack extends React.Component {
           </div>
         </div>
         <hr />
+        <div className="row mt-4">
+          <h3>Design Experience</h3>
+        </div>
+        <div className="row my-5">
+          <div className="col">
+            <img
+              src="https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5ebdbb2bc3dc9b4b053575a6/de4bcde55e11c1c28dcfb285a232d75c/blog-post-template.jpg"
+              alt="hacktober"
+              width="75%"
+            />
+          </div>
+        </div>
+        <div className="row my-5">
+          <div className="col">
+            <img
+              src="https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5ebdbb2bc3dc9b4b053575a6/dac24cfdc2c436620f3ad928e04fdda1/website-banner.png"
+              alt="hacktober"
+              width="75%"
+            />
+          </div>
+        </div>
+        <div className="row my-5">
+          <div className="col">
+            <img
+              src="https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5ebdbb2bc3dc9b4b053575a6/58793ef238ff076d56146c6d93011847/quarantine-art.jpg"
+              alt="hacktober"
+              width="75%"
+            />
+          </div>
+        </div>
+        <hr />
       </div>
     );
   }
