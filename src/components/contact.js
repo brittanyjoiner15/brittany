@@ -29,6 +29,7 @@ export class Contact extends React.Component {
               <div className="col-md-4">
                 <input
                   className="form-control form-control-sm"
+                  name="email"
                   type="text"
                   placeholder="email"
                 ></input>
