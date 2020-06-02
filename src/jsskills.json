@@ -35,6 +35,12 @@
       "description": "Basic tetris game built from a FreeCodeCamp tutorial with vanilla JS",
       "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5eadcb13c82db90ac430e6ba/645b6a34514b82711e9f897cf543a1ac/tetris.png",
       "link": "https://github.com/brittanyjoiner15/tetris-vanilla"
+    },
+    {
+      "title": "Elastic APM",
+      "description": "Contributor to Elastic's open source APM tool, helping with front end and user interface",
+      "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5eadcb13c82db90ac430e6ba/8b0b0744f448fb88bc5ddb8d0b32834b/image.png",
+      "link": "https://github.com/elastic/kibana/pulls/brittanyjoiner15"
     }
   ]
 }
