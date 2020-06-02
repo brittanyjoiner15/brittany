@@ -21,7 +21,7 @@
     {
       "title": "Drink Recipe Generator",
       "description": "Filtering results based on selection from drop down",
-      "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5ea0d4482cbb1f716cbf59b6/867192860c67b3805b8644cef1accfe4/Screen_Shot_2020-05-08_at_9.34.23_PM.png",
+      "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5eadcb13c82db90ac430e6ba/18ec271da922cfe1e632de2b3aa3ce4f/Screen_Shot_2020-06-02_at_7.47.02_AM.png",
       "link": "https://github.com/brittanyjoiner15/drink-generator"
     },
     {
@@ -33,7 +33,7 @@
     {
       "title": "Tetris Game",
       "description": "Basic tetris game built from a FreeCodeCamp tutorial with vanilla JS",
-      "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5eadcb13c82db90ac430e6ba/eeb90a44ba22dc64824a0e5f7ba35cd2/image.png",
+      "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5eadcb13c82db90ac430e6ba/645b6a34514b82711e9f897cf543a1ac/tetris.png",
       "link": "https://github.com/brittanyjoiner15/tetris-vanilla"
     }
   ]
