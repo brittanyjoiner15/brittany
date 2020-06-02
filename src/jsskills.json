@@ -29,6 +29,12 @@
       "description": "Using React Hooks and APIs to search movies ",
       "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5eadcb13c82db90ac430e6ba/b608e63cbe8971850996255afdf53676/image.png",
       "link": "https://github.com/brittanyjoiner15/hooked"
+    },
+    {
+      "title": "Tetris Game",
+      "description": "Basic tetris game built from a FreeCodeCamp tutorial with vanilla JS",
+      "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5eadcb13c82db90ac430e6ba/eeb90a44ba22dc64824a0e5f7ba35cd2/image.png",
+      "link": "https://github.com/brittanyjoiner15/tetris-vanilla"
     }
   ]
 }
