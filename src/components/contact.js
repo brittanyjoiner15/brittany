@@ -15,13 +15,8 @@ export class Contact extends React.Component {
         </div>
 
         <div>
-          <form
-            action="/"
-            enctype="application/x-www-form-urlencoded"
-            name="contact"
-            method="POST"
-            data-netlify="true"
-          >
+          <form method="POST">
+            <input type="hidden" name="form-name" value="contact" />
             <div className="form-row mt-3 justify-content-center">
               <div className="col-md-7">
                 <textarea

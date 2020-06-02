@@ -49,10 +49,9 @@
     <form
       style="display: none;"
       name="contact"
-      method="post"
-      data-netlify="true"
-      action="/"
-      enctype="application/x-www-form-urlencoded"
+      netlify
+      netlify-honeypot="bot-field"
+      hidden
     >
       <input name="message" />
       <input name="email" />
