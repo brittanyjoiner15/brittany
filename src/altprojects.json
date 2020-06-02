@@ -1,0 +1,16 @@
+{
+  "Other": [
+    {
+      "title": "Stock Market Tracker",
+      "description": "Created google sheet that uses formulas and google finance to track stock market and portfolio values",
+      "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5eadcb13c82db90ac430e6ba/add8ec340125212ed5419c82a8875097/stock-game.gif",
+      "link": "https://docs.google.com/spreadsheets/d/1yJNJCbn5jWSBalp8ySuM5nt1dnog66iGDMQJJ2-7gMk/edit?usp=sharing"
+    },
+    {
+      "title": "Marketing Spend Tracker",
+      "description": "Aggregating data via google sheet adds on for Funnel and Salesforce and using VLOOKUPS, SUMIFS, and other formulas to automate marketing spend",
+      "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5eadcb13c82db90ac430e6ba/bef4982922fecea60de562886bd7f493/finance.gif",
+      "link": "https://docs.google.com/spreadsheets/d/1iSW_3s7ytfHW0tnCYu7dBDkVb8_cof3Taxu9iJMYeGY/edit?usp=sharing"
+    }
+  ]
+}

@@ -8,6 +8,7 @@ import { SkillsJs } from "./components/skillsjs";
 import { Stack } from "./components/stack";
 import { Contact } from "./components/contact";
 import { Footer } from "./components/footer";
+import { OtherSkills } from "./components/Other";
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
       <Hero />
       <SkillsHtml />
       <SkillsJs />
+      <OtherSkills />
       <Stack />
       <Contact />
       <Footer />
