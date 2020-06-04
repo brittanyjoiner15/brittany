@@ -12,9 +12,9 @@ export class Header extends React.Component {
             <a
               className="mx-2"
               target="_blank"
-              href="http://howbritseesit.wordpress.com/"
+              href="https://github.com/brittanyjoiner15/"
             >
-              Blog
+              Github
             </a>
             <a
               className="mx-2"
@@ -26,9 +26,9 @@ export class Header extends React.Component {
             <a
               className="mx-2"
               target="_blank"
-              href="https://github.com/brittanyjoiner15/"
+              href="https://trello.com/b/s7cSG2Tb/dev-sprint-board"
             >
-              <button className="btn-primary">Github</button>
+              <button className="btn btn-primary">View My Sprint</button>
             </a>
           </div>
         </div>
