@@ -11,6 +11,12 @@ export class Footer extends React.Component {
             </p>
           </div>
           <div className="col-md-6">
+            <a
+              className="mx-2"
+              href="https://drive.google.com/file/d/1uSwFRLXuF7fmkNTMQFnkNiQ0HprhEGVj/view?usp=sharing"
+            >
+              My Brand Guidelines
+            </a>
             <a className="mx-2" href="http://howbritseesit.wordpress.com/">
               Blog
             </a>
