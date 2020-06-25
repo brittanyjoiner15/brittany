@@ -1,6 +1,12 @@
 {
   "Jss": [
     {
+      "title": "Scavenger Hunt App",
+      "description": "Created a personalized scavenger hunt app for mom's birthday. Based on EUI design library.",
+      "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5ebdbb2bc3dc9b4b053575a6/a83c89741ba1edd8d6141dea4ace5231/image.png",
+      "link": "https://scavenger-hunt-knoxville.com/"
+    },
+    {
       "title": "To Do App",
       "description": "Using Postgres, React, and Node to create a basic to do application",
       "image": "https://brittanyjoiner.netlify.app/images/todo.gif",
