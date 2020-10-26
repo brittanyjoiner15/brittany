@@ -26,8 +26,8 @@ function App() {
     >
       <Header />
       <Hero />
-      <SkillsHtml />
       <SkillsJs />
+      <SkillsHtml />
       <OtherSkills />
       <Stack />
       <Contact />
