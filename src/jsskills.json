@@ -4,13 +4,19 @@
       "title": "Elastic Dream Machine",
       "description": "Worked on front end improvements and features for internal Elastic custom app for support",
       "image": "https://trello.com/c/W8vjdvfT/150-my-site",
-      "link": "https://github.com/elastic/dream-machine"
+      "link": "https://trello-attachments.s3.amazonaws.com/5ed979e77bb1106caad412b8/5fe27dc8615aa81cf65d1785/72045a11fc7da96f9efdb864969fe185/dream-machine.gif"
     },
     {
       "title": "Elastic APM",
       "description": "Contributor to Elastic's open source APM tool, helping with front end and user interface",
       "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5eadcb13c82db90ac430e6ba/8b0b0744f448fb88bc5ddb8d0b32834b/image.png",
       "link": "https://github.com/elastic/kibana/pulls/brittanyjoiner15"
+    },
+    {
+      "title": "EUI Currency converter",
+      "description": "Created a currency converter with EUI Design Library for final project in Bootcamp",
+      "image": "https://trello-attachments.s3.amazonaws.com/5ed979e77bb1106caad412b8/5fe27dc8615aa81cf65d1785/175116ec197d0a332fc691bdcc486d13/image.png",
+      "link": "https://britt-currency-converter.netlify.app/"
     },
     {
       "title": "Scavenger Hunt App",

@@ -10,7 +10,7 @@ export class Stack extends React.Component {
         <div className="row">
           <div className="col-md-3">
             <img
-              src="https://trello.com/c/W8vjdvfT/150-my-site"
+              src="https://trello-attachments.s3.amazonaws.com/5ed979e77bb1106caad412b8/5fe27dc8615aa81cf65d1785/c56558e7f9d715982a41cfd489abff01/ts-logo-round-128.png"
               alt="typescript"
               width="75%"
               className="my-2"
