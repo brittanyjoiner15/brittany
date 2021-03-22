@@ -1,6 +1,18 @@
 {
   "Jss": [
     {
+      "title": "Elastic Dream Machine",
+      "description": "Worked on front end improvements and features for internal Elastic custom app for support",
+      "image": "https://trello.com/c/W8vjdvfT/150-my-site",
+      "link": "https://github.com/elastic/dream-machine"
+    },
+    {
+      "title": "Elastic APM",
+      "description": "Contributor to Elastic's open source APM tool, helping with front end and user interface",
+      "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5eadcb13c82db90ac430e6ba/8b0b0744f448fb88bc5ddb8d0b32834b/image.png",
+      "link": "https://github.com/elastic/kibana/pulls/brittanyjoiner15"
+    },
+    {
       "title": "Scavenger Hunt App",
       "description": "Created a personalized scavenger hunt app for mom's birthday. Based on EUI design library.",
       "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5ebdbb2bc3dc9b4b053575a6/a83c89741ba1edd8d6141dea4ace5231/image.png",
@@ -11,18 +23,6 @@
       "description": "Using Postgres, React, and Node to create a basic to do application",
       "image": "https://brittanyjoiner.netlify.app/images/todo.gif",
       "link": "https://github.com/brittanyjoiner15/pern-todo"
-    },
-    {
-      "title": "Shopping App",
-      "description": "Using JSON data as props for components to generate a shopping experience",
-      "image": "https://brittanyjoiner.netlify.app/images/shopping.png",
-      "link": "https://github.com/brittanyjoiner15/shopping"
-    },
-    {
-      "title": "COVID19 Dashboard",
-      "description": "Using Gatsby and APIs to reach John Hopkins data and visualize it",
-      "image": "https://brittanyjoiner.netlify.app/images/covid.gif",
-      "link": "#"
     },
     {
       "title": "Drink Recipe Generator",
@@ -41,12 +41,6 @@
       "description": "Basic tetris game built from a FreeCodeCamp tutorial with vanilla JS",
       "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5eadcb13c82db90ac430e6ba/79582f86f14807b56de409663e550579/image.png",
       "link": "https://github.com/brittanyjoiner15/tetris-vanilla"
-    },
-    {
-      "title": "Elastic APM",
-      "description": "Contributor to Elastic's open source APM tool, helping with front end and user interface",
-      "image": "https://trello-attachments.s3.amazonaws.com/5c3174bfd2f31c356736c742/5eadcb13c82db90ac430e6ba/8b0b0744f448fb88bc5ddb8d0b32834b/image.png",
-      "link": "https://github.com/elastic/kibana/pulls/brittanyjoiner15"
     }
   ]
 }

@@ -20,10 +20,6 @@ export class Hero extends React.Component {
             <p>
               Heya world! I am learning front end web development! You've found
               the right place to learn more about me and my projects.
-              <br />
-              <br />
-              Oh, and I'm a huge fan of agile, so click below if you want to see
-              how I organize myself and what I'm workign on.
             </p>
           </div>
         </div>

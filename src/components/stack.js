@@ -10,6 +10,14 @@ export class Stack extends React.Component {
         <div className="row">
           <div className="col-md-3">
             <img
+              src="https://trello.com/c/W8vjdvfT/150-my-site"
+              alt="typescript"
+              width="75%"
+              className="my-2"
+            />
+          </div>
+          <div className="col-md-3">
+            <img
               src="https://brittanyjoiner.netlify.app/images/html5.png"
               alt="HTML5"
               width="75%"
