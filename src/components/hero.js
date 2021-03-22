@@ -18,8 +18,8 @@ export class Hero extends React.Component {
           <div className="col justify-content-center">
             <h2 className="hero-text">Brittany Joiner | Front End Developer</h2>
             <p>
-              Heya world! I am learning front end web development! You've found
-              the right place to learn more about me and my projects.
+              Heya world! I am learning front end web development! I recently graduated from <a href="https://www.altcademy.com/programs/fewd">AltCadmey's Front End Development Bootcamp</a>!<br/> 
+              Keep scrolling to learn more about me and my projects.
             </p>
           </div>
         </div>
