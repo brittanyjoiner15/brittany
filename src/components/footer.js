@@ -7,7 +7,7 @@ export class Footer extends React.Component {
         <div className="row justify-content-between pb-3">
           <div className="col-md-6 text-left">
             <p>
-              <em>Copyright (C) 2020 Brittany Joiner, built with React</em>
+              <em>Copyright (C) 2021 Brittany Joiner, built with React</em>
             </p>
           </div>
           <div className="col-md-6">

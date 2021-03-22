@@ -4,7 +4,7 @@
       "title": "Elastic Dream Machine",
       "description": "Worked on front end improvements and features for internal Elastic custom app for support",
       "image": "https://trello-attachments.s3.amazonaws.com/5ed979e77bb1106caad412b8/5fe27dc8615aa81cf65d1785/72045a11fc7da96f9efdb864969fe185/dream-machine.gif",
-      "link": "https://github.com/elastic/dream-machine"
+      "link": "https://github.com/elastic/dream-machine/pulls?q=is%3Apr+author%3Abrittanyjoiner15+is%3Aclosed"
     },
     {
       "title": "Elastic APM",
