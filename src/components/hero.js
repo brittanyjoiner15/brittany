@@ -25,11 +25,6 @@ export class Hero extends React.Component {
               Oh, and I'm a huge fan of agile, so click below if you want to see
               how I organize myself and what I'm workign on.
             </p>
-            <a href="https://trello.com/b/s7cSG2Tb/dev-sprint-board">
-              <button className="btn btn-primary">
-                See what's on my sprint
-              </button>
-            </a>
           </div>
         </div>
         <div className="row justify-content-between my-4">
